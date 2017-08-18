@@ -8,6 +8,7 @@ namespace alma
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Szia vilag!");
+            Console.WriteLine("Ez egy uj!");
         }
     }
 }
